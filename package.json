@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "pinata": "^1.10.1",
     "pinata-web3": "^0.5.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
